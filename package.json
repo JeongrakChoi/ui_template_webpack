@@ -35,5 +35,12 @@
     "webpack": "^3.12.0",
     "webpack-dev-server": "^2.11.5"
   },
-  "dependencies": {}
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeongrakChoi/ui_template_webpack.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JeongrakChoi/ui_template_webpack/issues"
+  },
+  "homepage": "https://github.com/JeongrakChoi/ui_template_webpack#readme"
 }
