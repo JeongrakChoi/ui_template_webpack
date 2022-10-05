@@ -11,6 +11,7 @@
 ```
 node, npm, git 설치 후
 > npm init
+> npm i
 > npm start (시작)
 > npm run build (빌드)
 ```
